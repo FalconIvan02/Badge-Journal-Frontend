@@ -1,0 +1,141 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+        {
+      "type": "Feature",
+      "properties": { "districte": 0, "nom": "Barcelona" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates":[
+      [
+        [2.05, 41.32],
+        [2.25, 41.32],
+        [2.25, 41.46],
+        [2.05, 41.46],
+        [2.05, 41.32]
+      ]
+    ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "districte": 1, "nom": "Ciutat Vella" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [2.1834, 41.3906], [2.1900, 41.3850], [2.1850, 41.3750],
+          [2.1750, 41.3720], [2.1650, 41.3780], [2.1680, 41.3880],
+          [2.1834, 41.3906]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "districte": 2, "nom": "Eixample" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [2.1550, 41.3850], [2.1850, 41.3850], [2.1950, 41.3950],
+          [2.1920, 41.4120], [2.1650, 41.4150], [2.1500, 41.4000],
+          [2.1550, 41.3850]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "districte": 3, "nom": "Sants-Montjuïc" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [2.1350, 41.3650], [2.1650, 41.3600], [2.1750, 41.3750],
+          [2.1650, 41.3850], [2.1450, 41.3800], [2.1200, 41.3700],
+          [2.1100, 41.3550], [2.1350, 41.3650]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "districte": 4, "nom": "Les Corts" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [2.1150, 41.3800], [2.1450, 41.3800], [2.1550, 41.3950],
+          [2.1450, 41.4050], [2.1250, 41.4000], [2.1100, 41.3900],
+          [2.1150, 41.3800]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "districte": 5, "nom": "Sarrià-Sant Gervasi" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [2.1100, 41.3950], [2.1450, 41.3950], [2.1600, 41.4150],
+          [2.1500, 41.4350], [2.1250, 41.4300], [2.1000, 41.4100],
+          [2.1100, 41.3950]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "districte": 6, "nom": "Gràcia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [2.1450, 41.4050], [2.1650, 41.4050], [2.1750, 41.4150],
+          [2.1700, 41.4280], [2.1550, 41.4300], [2.1400, 41.4200],
+          [2.1450, 41.4050]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "districte": 7, "nom": "Horta-Guinardó" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [2.1550, 41.4250], [2.1900, 41.4200], [2.2100, 41.4350],
+          [2.2000, 41.4550], [2.1700, 41.4500], [2.1500, 41.4400],
+          [2.1550, 41.4250]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "districte": 8, "nom": "Nou Barris" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [2.1650, 41.4400], [2.1950, 41.4350], [2.2200, 41.4450],
+          [2.2150, 41.4650], [2.1850, 41.4600], [2.1600, 41.4500],
+          [2.1650, 41.4400]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "districte": 9, "nom": "Sant Andreu" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [2.1850, 41.4250], [2.2100, 41.4200], [2.2300, 41.4350],
+          [2.2250, 41.4550], [2.1950, 41.4500], [2.1800, 41.4350],
+          [2.1850, 41.4250]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "districte": 10, "nom": "Sant Martí" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [2.1850, 41.3900], [2.2200, 41.3850], [2.2400, 41.3950],
+          [2.2350, 41.4200], [2.2100, 41.4150], [2.1900, 41.4050],
+          [2.1850, 41.3900]
+        ]]
+      }
+    }
+  ]
+}   

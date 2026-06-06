@@ -1,0 +1,59 @@
+
+#center {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  place-content: center;
+  place-items: center;
+  flex-grow: 1;
+
+  @media (max-width: 1024px) {
+    padding: 32px 20px 24px;
+    gap: 18px;
+  }
+}
+
+#location-card {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  place-content: center;
+  flex-grow: 1;
+
+  background-color: #0c0a369a;
+  border: 1px solid #563f00;
+  border-radius: 8px;
+  padding: 60px;
+  max-height: 600px;
+  margin: 0 auto;
+  @media (max-width: 1024px) and (min-width: 768px) {
+    padding: 32px 20px 24px;
+    gap: 18px;
+  }
+}
+
+#action-buttons {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+#action-buttons button:first-child {
+  background-color: #ffbb00;
+  color: rgb(3, 3, 3);
+  border: none;
+  border-radius: 4px;
+  padding: 12px 24px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+#action-buttons button:last-child {
+  background-color: #ccc;
+  color: #333;
+  border: none;
+  border-radius: 4px;
+  padding: 12px 24px;
+  font-size: 16px;
+  cursor: pointer;
+}
